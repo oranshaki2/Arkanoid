@@ -17,6 +17,8 @@ The game demonstrates a solid understanding of core OOP concepts and software de
 
 Developed using Java in IntelliJ IDEA Ultimate, this project highlights my ability to design, structure, and implement object-oriented software from scratch in a game development context.
 
-![image](https://github.com/user-attachments/assets/376e9d61-b7e8-43d2-907f-fcf64765fc1a)
+<img width="1267" alt="github_pic" src="https://github.com/user-attachments/assets/056fe963-ab84-4930-964d-e743e24f8de1" />
+
+<img width="635" alt="446002300-376e9d61-b7e8-43d2-907f-fcf64765fc1a" src="https://github.com/user-attachments/assets/c2b155a9-8c77-4768-a752-c4daf9d821d5" />
 
 
