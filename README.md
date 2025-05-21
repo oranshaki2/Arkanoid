@@ -7,12 +7,12 @@ Moreover, no built-in Java GUI components were used; instead, a custom GUI frame
 
 The game demonstrates a solid understanding of core OOP concepts and software design principles, including:
 
-- **Polymorphism and Inheritance
+- Polymorphism and Inheritance
 
-- **Implementation of Design Patterns such as Observer and Builder
+- Implementation of Design Patterns such as Observer and Builder
 
-- **Use of Generic Data Structures like LinkedList and ArrayList
+- Use of Generic Data Structures like LinkedList and ArrayList
 
-- **Custom GUI development in Java
+- Custom GUI development in Java
 
 Developed using Java in IntelliJ IDEA Ultimate, this project highlights my ability to design, structure, and implement object-oriented software from scratch in a game development context.
