@@ -19,8 +19,4 @@ Developed using Java in IntelliJ IDEA Ultimate, this project highlights my abili
 
 ![image](https://github.com/user-attachments/assets/376e9d61-b7e8-43d2-907f-fcf64765fc1a)
 
-![image](https://github.com/user-attachments/assets/5d9758f3-c0d4-4bf5-b000-e7e7240d8bb3)
-
-![image](https://github.com/user-attachments/assets/87a03484-3abc-4fe2-b99a-b1fd7a810750)
-
 
